@@ -17,3 +17,7 @@ Remote
 - git branch (hien thi cac branch)
 - git merge (branch name)
 - git branch -d {branch name}
+- git push {link} {branch name}
+- git remote add {name} {link}
+- git push name branch_name
+- git fetch origin
