@@ -1,5 +1,6 @@
 Repository
 Branch
+Conflict
 
 - git init
 - git status
@@ -13,4 +14,4 @@ Branch
 - git checkout -b {branch name}
 - git branch (hien thi cac branch)
 - git merge (branch name)
-- git branch {branch name}
+- git branch -d {branch name}
