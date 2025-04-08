@@ -11,4 +11,6 @@ Branch
 - git checkout id (id cua phien ban)
 - git checkout master (de quay lai trang thai hien tai)
 - git checkout -b {branch name}
-- git branch (xem branch)
+- git branch (hien thi cac branch)
+- git merge (branch name)
+- git branch {branch name}
